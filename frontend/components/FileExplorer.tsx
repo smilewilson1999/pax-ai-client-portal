@@ -781,7 +781,7 @@ export default function FileExplorer({
                 }
                 className="cursor-pointer"
               >
-                <Download className="h-4 w-4 mr-2" />
+                <Download className="h-4 w-4" />
                 Download
               </Button>
             </div>
