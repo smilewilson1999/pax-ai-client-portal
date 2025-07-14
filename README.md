@@ -15,7 +15,7 @@ A modern, secure, and AI-ready claims management portal built with a powerful te
 </p>
 
 ---
-<img width="1920" height="1280" alt="product-demo" src="https://github.com/user-attachments/assets/86aa654b-38de-4616-9931-38d6bfd1402c" />
+<img width="1920" height="1280" alt="product-demo" src="https://github.com/user-attachments/assets/4504cb81-3e7e-43cc-959c-aad4e7f0d2aa" />
 
 ## 🌟 Core Features
 
