@@ -15,8 +15,10 @@ A modern, secure, and AI-ready claims management portal built with a powerful te
 </p>
 
 ---
+<img width="1920" height="1280" alt="product-demo" src="https://github.com/user-attachments/assets/86aa654b-38de-4616-9931-38d6bfd1402c" />
 
 ## 🌟 Core Features
+
 
 -   **Secure Authentication**: Robust user sign-up, sign-in, and session management powered by **Clerk**.
 -   **Claims Dashboard**: A central hub to view and track the real-time status of all refund claims.
@@ -96,4 +98,4 @@ A modern, secure, and AI-ready claims management portal built with a powerful te
 -   **Analytics Dashboard**: Provide detailed reporting and insights on claim data.
 
 ---
-*This project was built for Pax AI's demo.*
+*This project was built for Pax AI (YC S24)'s demo.*
